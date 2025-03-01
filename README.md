@@ -50,6 +50,7 @@ This understanding affects vocabulary choices, depth of explanations, which deta
 </details>
 <details>
   <summary> 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?</summary>
+  
 | Technical term | Simplified alternative | Improvement |
 |------|------|------------|
 | Initiate the process | Start the process | More direct, uses everyday language |
@@ -70,8 +71,9 @@ This understanding affects vocabulary choices, depth of explanations, which deta
 </details>
 <details>
   <summary>8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?</summary>
+  
 | Type of Information | Effective visual Type | Why it works |
-|------|------|------------|
+|---------------|--------------|--------------------|
 | Process flows | Flowcharts | Shows sequence and decision points clearly |
 | System architecture | Component diagrams | Illustrates relationship between parts |
 | Comparative data | Bar/column charts | Makes comparison visually obvious |
